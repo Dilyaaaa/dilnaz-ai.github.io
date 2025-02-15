@@ -32,7 +32,7 @@ I am a software developer passionate about web development, algorithms, and data
 
 **Technologies:** React.js, Tailwind CSS, Firebase, Local Storage  
 
-### 3️⃣ [Movie App](https://github.com/yourusername/movie-app)  
+### 3️⃣ [Movie App](https://github.com/szarina/Final-Android)  
 **Description:** An Android application for discovering, reviewing, and favoriting movies.  
 **Key Features:**  
 ✅ Browse and search movies  
